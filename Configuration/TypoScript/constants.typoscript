@@ -1,0 +1,10 @@
+############
+### PAGE ###
+############
+page {
+     fluidtemplate {
+        layoutRootPath = EXT:sl_sitepackage/Resources/Private/Layouts/
+        partialRootPath = EXT:sl_sitepackage/Resources/Private/Partials/
+        templateRootPath = EXT:sl_sitepackage/Resources/Private/Templates/
+    }
+}
