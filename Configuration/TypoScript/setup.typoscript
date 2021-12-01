@@ -2,6 +2,8 @@
 ## INCLUDES ##
 ##############
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:sl_sitepackage/Configuration/TypoScript/Helper/DynamicContent.typoscript">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sl_contact/Configuration/TypoScript/setup.typoscript">
+
 
 ##############
 #### PAGE ####
